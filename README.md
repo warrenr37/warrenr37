@@ -2,7 +2,7 @@
 - 👀 I’m interested in Automation and Uptime
 - 🌱 I’m currently learning Ansible
 - 💞️ I’m looking to collaborate on Hardware
-- 📫 How to reach me mwfiher@pm.me
+- 📫 How to reach me mwfisher@pm.me
 
 <!---
 warrenr37/warrenr37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
